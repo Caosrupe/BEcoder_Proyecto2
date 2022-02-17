@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "timestamp": "16/02 - 17:0:47",
+    "nombre": "Parlante Pionner Auto",
+    "descripcion": "Parlante de auto con funcion triaxial",
+    "codigo": "1",
+    "thumbail": "https://www.paris.cl/dw/image/v2/BCHW_PRD/on/demandware.static/-/Sites-paris-marketplace/default/dw1219f115/images/imagenes-productos/800/MKWZ/MKWZ85AVNT-001.jpg?sw=320&sh=409&sm=fit",
+    "precio": "65000",
+    "stock": "5"
+  },
+  {
+    "id": "2",
+    "timestamp": "16/02 - 17:5:42",
+    "nombre": "Subwoofer Pionner",
+    "descripcion": "Subwoofer marca Piooner de 1200w doble bobina",
+    "codigo": "2",
+    "thumbail": "https://ripleycl.imgix.net/http%3A%2F%2Fs3.amazonaws.com%2Fimagenes-sellers-mercado-ripley%2F2021%2F04%2F10204224%2FTS-W312D4-S4-front.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=bba44729edd30f1888de4b2bc3bdef7b",
+    "precio": "120000",
+    "stock": "3"
+  },
+  {
+    "id": "3",
+    "timestamp": "16/02 - 17:10:22",
+    "nombre": "Subwoofer Jbl",
+    "descripcion": "Subwoofer JBL 12 pulgadas monoblock",
+    "codigo": "3",
+    "thumbail": "https://m.media-amazon.com/images/I/614xi2-KTIL._AC_SX569_.jpg",
+    "precio": "150000",
+    "stock": "10"
+  }
+]
